@@ -2,4 +2,4 @@
 This is a pong game, made literally from Scratch
 
 
-To access my Scratch Project visit: https://scratch.mit.edu/projects/744688652 or download the .sb3 file and load it in your Scratch Editor page: https://scratch.mit.edu/projects/editor/
+To access my Scratch Project visit: https://scratch.mit.edu/projects/744688652 or download the [1]https://github.com/lucasmbf/Ponggers/blob/main/Ponggers.sb3 ".sb3" file and load it in your Scratch Editor page: https://scratch.mit.edu/projects/editor/
